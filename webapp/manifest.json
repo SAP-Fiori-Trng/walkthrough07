@@ -1,0 +1,7 @@
+{
+    "sap.app": {
+        "id": "dw.ui5.walkthrough.07",
+        "version": "1.0.0",
+        "type": "application"
+    }
+}
